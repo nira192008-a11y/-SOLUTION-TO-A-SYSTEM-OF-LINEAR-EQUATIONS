@@ -35,7 +35,8 @@ C = np.linalg.solve(A,B)
 
 print(C)
 
-## Output:
+## Output:v<img width="1022" height="837" alt="Screenshot 2026-10-14 083533" src="https://github.com/user-attachments/assets/bc93f2aa-acc4-496b-be87-0190625c071b" />
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
